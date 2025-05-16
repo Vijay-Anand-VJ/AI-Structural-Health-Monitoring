@@ -59,7 +59,7 @@ A line chart will appear showing the first 50 samples of:
 
 #### Example Output Plot:
 
-![Sensor Data Plot](output_sample_plot.png)
+![Sensor Data Plot](output_plot.png)
 
 > To save this image automatically, you can add this line at the end of your script:
 
